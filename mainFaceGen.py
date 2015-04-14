@@ -14,7 +14,7 @@ import random
 ###########################################
 
 #Get all items in the folder as a list of strings - 
-filenames = os.listdir("/Users/skornfilt/Documents/Face Generation/FaceGeneration")
+filenames = os.listdir("FILEPATH")
 #print filenames
 
 #initialize Lists of emotions with picture filenames
