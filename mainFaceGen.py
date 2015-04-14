@@ -14,7 +14,7 @@ import random
 ###########################################
 
 #Get all items in the folder as a list of strings - 
-filenames = os.listdir("FILEPATH")
+filenames = os.listdir("FILEPATH") #enter filepath to find image files
 #print filenames
 
 #initialize Lists of emotions with picture filenames
