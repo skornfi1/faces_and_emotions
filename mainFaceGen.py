@@ -97,9 +97,9 @@ final_pic = face_painter(chosen_emotion)
 #shows picture
 final_pic.show()
 
-##################################################################
-#Additional Function to create and display a lot of faces at once#
-##################################################################
+#################################################################
+#Additional Section to create and display a lot of faces at once#
+#################################################################
 """
 
 test_emotions = ["happy","angry","neutral"]
